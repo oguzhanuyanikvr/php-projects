@@ -51,7 +51,7 @@
         <!-- Table Start -->
         <section>
             <div class="alert alert-secondary text-dark text-center heading-box">
-                <h2 class="fs-2">Notlar</h1>
+                <h2 class="fs-2">Notlar</h2>
             </div>
             <div>
                 <table class="table table-dark table-hover">
