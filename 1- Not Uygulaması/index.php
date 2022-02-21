@@ -22,7 +22,7 @@
 
         <!-- Form Start -->
         <section>
-            <form action="add.php" method="post" class="mt-2" id="dataForm">
+            <form action="" method="post" class="mt-2" id="dataForm">
                 <div class="col-12">
                     <label for="title-input" class="form-label text-light display-6">Başlık</label>
                     <input class="form-control" type="text" name="title" id="title-input" required>
